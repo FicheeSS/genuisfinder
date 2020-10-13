@@ -1,6 +1,6 @@
-rom setuptools import find_packages, setup
+from setuptools import find_packages, setup
 setup(
-    name=’genuisfinder’,
+    name='genuisfinder',
     packages=find_packages(),
     version='0.1',
     description='Lyrics finder from Genuis',
