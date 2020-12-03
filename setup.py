@@ -1,5 +1,5 @@
 from setuptools import find_packages, setup
-ver = '0.1.1'
+ver = '0.1.2'
 setup(
     name='genuisfinder',
     packages=find_packages(),
